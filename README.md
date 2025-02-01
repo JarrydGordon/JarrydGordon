@@ -1,58 +1,83 @@
-# 👋 Hi, I'm Jarryd Gordon!
+# Jarryd Gordon
 
-**`Digital Craftsman (Developer/Designer/Creator)`**
+## About Me
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourHandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+Hello! I'm Jarryd Gordon, a passionate developer with a strong background in JavaScript. I love building innovative solutions and contributing to open-source projects.
 
-```diff
-+ Passionate developer exploring the intersection of code and creativity
-! Building solutions that make life easier and more enjoyable
-# Currently on a journey to master full-stack development
-🛠️ Tech Stack
-JavaScript
-Python
-React
-Node.js
-AWS
-Git
+## Social Media
 
-🌱 Currently Learning
-Advanced TypeScript Patterns
+- Twitter/X: [@JarrydGordon](https://twitter.com/JarrydGordon)
+- Email: [jarryd.gordon@domain.com](mailto:jarryd.gordon@domain.com)
 
-Cloud Architecture with AWS
+## Project Links
 
-Machine Learning Fundamentals
+- Demo: [demo.com](http://demo.com)
+- Repository: [repo](http://repo)
+- Portfolio: [portfolio.com](http://portfolio.com)
 
-UI/UX Design Principles
+## Tech Stack
 
-👨💻 Featured Projects
-[Project Alpha] - Revolutionary task management system using AI
-Live Demo
-Code
+- JavaScript
 
-[Open Source Contribution] - Major contributor to Awesome-OSS project
-PR
+## Projects
 
-[Experimental Project] - Blockchain-based voting system prototype
-Tech
+### Project 1
 
-📬 Connect With Me
-Portfolio
-Blog
-Codepen
+[Project Description]
 
-⚡ Fun Facts
-🎸 Former rhythm guitarist in "The Commit Messages" band
+- [Demo Link](http://demo.com)
+- [Repository Link](http://repo)
 
-🧗‍♂️ Solved a production bug while rock climbing
+### Project 2
 
-☕ Can differentiate 15 coffee varieties blindfolded
+[Project Description]
 
-🎮 Holds a national record in Counter-Strike: Global Offensive
+- [Demo Link](http://demo.com)
+- [Repository Link](http://repo)
 
-📊 GitHub Stats
-Jarryd's GitHub Stats
+### Project 3
 
-Top Langs
+[Project Description]
+
+- [Demo Link](http://demo.com)
+- [Repository Link](http://repo)
+
+## Fun Facts
+
+- [Fun Fact 1]
+- [Fun Fact 2]
+- [Fun Fact 3]
+
+## Quote
+
+> [Your Favorite Quote]
+
+## GitHub Stats
+
+![JarrydGordon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarrydGordon&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarrydGordon&layout=compact)
+
+## Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JarrydGordon&theme=github)
+
+## Badges
+
+[![Badge 1](https://img.shields.io/badge/Badge1-Example1-blue)](https://example1.com)
+[![Badge 2](https://img.shields.io/badge/Badge2-Example2-green)](https://example2.com)
+[![Badge 3](https://img.shields.io/badge/Badge3-Example3-orange)](https://example3.com)
+
+## Repository Pins
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=JarrydGordon&repo=repo1)](https://github.com/JarrydGordon/repo1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=JarrydGordon&repo=repo2)](https://github.com/JarrydGordon/repo2)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=JarrydGordon&repo=repo3)](https://github.com/JarrydGordon/repo3)
+
+## Animated Icons
+
+[![Icon 1](https://cdn.lordicon.com/your-icon1.json)](https://lordicon.com)
+[![Icon 2](https://cdn.lottiefiles.com/your-icon2.json)](https://lottiefiles.com)
+[![Icon 3](https://cdn.lordicon.com/your-icon3.json)](https://lordicon.com)
